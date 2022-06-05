@@ -4,7 +4,7 @@
     "sources": [
         "../scss/main.scss",
         "../scss/utils/_index.scss",
-        "../scss/utils/_vars.scss",
+        "../scss/utils/_variables.scss",
         "../scss/utils/_visually-hidden.scss",
         "../scss/base/_index.scss",
         "../scss/base/_common.scss",
